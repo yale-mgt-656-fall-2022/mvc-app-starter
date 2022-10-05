@@ -64,17 +64,7 @@ is an example running online that passes all the tests: <http://mvc-app.solution
    and [ToLower](https://golang.org/pkg/strings/#ToLower)
    functions.
 1. Be sure to make git commits after every pieces of useful work you do.
-1. It is likely that you'll want to deploy your app on Heroku.
-   To deploy to Heroku, you'd do something like
-
-   ```
-   heroku create
-   git push heroku main
-   ```
-
-   It's a good thing to deploy early and often. That is, you can deploy
-   to Heroku before you finish the assignment and then push every time
-   you make progress.
+1. It is likely that you'll want to deploy your app on Heroku or fly.io.
 
 ## Caveats
 
